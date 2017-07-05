@@ -1,0 +1,19 @@
+{
+  "name": "lm-trilateration",
+  "version": "0.2.9",
+  "description": "Locate Objects in a coordinate system  with at least 3 known points and approximate radii around these fixed points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trilateration"
+  ],
+  "author": "Andreas Froelich",
+  "license": "ISC",
+  "dependencies": {
+    "ml-matrix": "^3.0.0",
+    "my-ml-curve-fitting": "0.0.9",
+    "statistics-distribution": "0.0.1"
+  }
+}
