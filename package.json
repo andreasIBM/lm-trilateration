@@ -1,6 +1,6 @@
 {
   "name": "lm-trilateration",
-  "version": "0.2.9",
+  "version": "0.3.2",
   "description": "Locate Objects in a coordinate system  with at least 3 known points and approximate radii around these fixed points",
   "main": "index.js",
   "scripts": {
